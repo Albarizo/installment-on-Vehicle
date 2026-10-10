@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Calculator_auto_installement/Calculator_auto_installement.vcxproj" Id="18d3839b-df66-4c62-87cb-5a605306b0ab" />
+</Solution>
